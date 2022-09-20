@@ -1,0 +1,1 @@
+This is a snake game developed in html,css and javascript.
